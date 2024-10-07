@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+paymentqrcode.com./qrcode
+        </title>
+    </head>
+    <body>
+        <ul>
+            <li>
+Pay through QR Code
+            </li>
+        </ul>
+        <p>
+To pay through QR code follow the following steps:
+        <ol>
+            <li>
+Save this image<br>
+<img src="qrcode.png" width="60%" height="60%">        
+            </li
+            <li>
+Scan it on a scanner app e.g camscanner for Android and <q>èyin le mò</q>for ios(iPhone) users.
+            </li>
+            <li>
+Write Down your amount and bank details
+            </li>
+            <li>
+Send receipt to <a href="mailto: favourablefavour2009@gmail.com">this email</a> for confirmation. <br>
+OR <br>
+Send your receipt to this number <a href="https://api.whatsapp.com/send?phone=2348029033935&text=Hello%20Tech-God%20I%20have%20transffered%20a%20sum%20of%20_____%20to%20your%20account%0AReceipt below 👇👇">+2348029033935</a>
+            </li>
+        </ol>
+        </p>
+    </body>
+</html>
